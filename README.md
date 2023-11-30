@@ -48,7 +48,9 @@ In the telecommunications industry, customer retention is a critical factor for 
 
 # ...
 
-# Results for Logistic Regression
+```
+
+## Results for Logistic Regression
 
 | Metric           | Training Set | Test Set |
 |-------------------|--------------|----------|
@@ -57,7 +59,7 @@ In the telecommunications industry, customer retention is a critical factor for 
 | F1 Score          | 0.698        | 0.685    |
 | Accuracy Score    | 0.784        | 0.758    |
 
-# Results for XGBoost
+## Results for XGBoost
 
 | Metric           | Training Set | Test Set |
 |-------------------|--------------|----------|
@@ -65,8 +67,6 @@ In the telecommunications industry, customer retention is a critical factor for 
 | Precision Score   | 0.985        | 0.685    |
 | F1 Score          | 0.988        | 0.748    |
 | Accuracy Score    | 0.989        | 0.825    |
-
-```
 
 ## Conclusion
 XGBoost and LightGBM demonstrated the best performance. The results provide valuable insights for telecommunications companies to develop effective customer retention strategies.
