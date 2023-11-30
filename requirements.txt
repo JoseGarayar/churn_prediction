@@ -14,3 +14,4 @@ dask==2023.8.1
 dask[distributed]
 xgboost==2.0.2
 lightgbm==4.1.0
+tensorflow==2.14.0
